@@ -298,7 +298,7 @@ const EyesC = ({ scale, position }) => {
 
   return (
     <div className={contrStyles.controll}>
-      <div>Nose</div>
+      <div>Eyes</div>
     
       <label>
         Position:
